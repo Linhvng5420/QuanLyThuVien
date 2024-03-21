@@ -1,0 +1,24 @@
+D:\HP\3D Objects\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.AssemblyReference.cache
+D:\HP\3D Objects\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.SuggestedBindingRedirects.cache
+D:\HP\3D Objects\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.CoreCompileInputs.cache
+D:\HP\3D Objects\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe.config
+D:\HP\3D Objects\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe
+D:\HP\3D Objects\QLThuVien\QLThuVien\bin\Debug\QLThuVien.pdb
+D:\HP\3D Objects\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+D:\HP\3D Objects\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb
+F:\CTDL&GT\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe.config
+F:\CTDL&GT\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe
+F:\CTDL&GT\QLThuVien\QLThuVien\bin\Debug\QLThuVien.pdb
+F:\CTDL&GT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.AssemblyReference.cache
+F:\CTDL&GT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.SuggestedBindingRedirects.cache
+F:\CTDL&GT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.CoreCompileInputs.cache
+F:\CTDL&GT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+F:\CTDL&GT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb
+D:\HP\Bàn làm việc\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe.config
+D:\HP\Bàn làm việc\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe
+D:\HP\Bàn làm việc\QLThuVien\QLThuVien\bin\Debug\QLThuVien.pdb
+D:\HP\Bàn làm việc\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.AssemblyReference.cache
+D:\HP\Bàn làm việc\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.SuggestedBindingRedirects.cache
+D:\HP\Bàn làm việc\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.CoreCompileInputs.cache
+D:\HP\Bàn làm việc\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+D:\HP\Bàn làm việc\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb
